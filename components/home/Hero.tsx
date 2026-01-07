@@ -35,7 +35,7 @@ export const Hero: React.FC = () => {
                 </span>
                 <h1 className="text-5xl md:text-6xl lg:text-7xl font-serif font-bold text-warm-charcoal leading-tight">
                   Merhaba, Ben{' '}
-                  <span className="text-primary-600">İsminiz</span>
+                  <span className="text-primary-600">Nurefşan ADAK</span>
                 </h1>
               </motion.div>
 
