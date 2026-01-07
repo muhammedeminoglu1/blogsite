@@ -16,7 +16,7 @@ export const metadata: Metadata = {
     'psikoloji öğrencisi',
   ],
   authors: [{ name: 'Nurefşan' }],
-  creator: 'İsminiz',
+  creator: 'Nurefşan',
   openGraph: {
     type: 'website',
     locale: 'tr_TR',
